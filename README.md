@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **fake social media accounts and their detection**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development and competitive programming**
 
 - 💬 Ask me about **UI,React.js,node.js**
 
